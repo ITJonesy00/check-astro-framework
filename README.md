@@ -1,8 +1,9 @@
 # check-astro-framework
 
-> Check the latest dependencies Astro framework easily
+> Check the latest dependencies (and other
+extensions) of the Astro framework easily
 
-Current objective : Bash script for auditing an Astro project. 
+Current objective : Bash script for auditing an Astro project 
 
 The source code, development workflow and releases are maintained on **Codeberg** : 
 ☕️ [Codeberg : check-astro-depedencies ](https://codeberg.org/ITJonesy00/check-astro-depedencies)
@@ -15,6 +16,7 @@ The source code, development workflow and releases are maintained on **Codeberg*
 - Prints a structured report with a pass/warn/fail summary. 
 - No external
 dependencies beyond `Node` and `npm`.
+
 </details>
 
 
